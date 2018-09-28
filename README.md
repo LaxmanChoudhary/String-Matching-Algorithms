@@ -21,10 +21,10 @@
 * the string that is to be searched, *the pattern* P, length of |P| = m
 #### It must be clear that the problem must consist of n >= m, otherwise it would not make any sense.
 
-## So, hwat do we expect from a string matching algorithms ?
+## So, what do we expect from a string matching algorithms ?
 * 
 
-### We will dive into number of string searching algrithms that can be used for string searching, each folder of the algorithms contains following part :
+### We will dive into number of string matching algrithms, each module consists of following :
   * **Theory**
     * Description
     * Merits and Demerits

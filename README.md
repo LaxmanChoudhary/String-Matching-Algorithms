@@ -1,4 +1,4 @@
-# String-Matching-Algorithms
+# String Matching Algorithms
 
 ###   Finding the occurence of a string in a cluster of words is what needed in a lot of programs, whether related to data analysis, text searching, and so on. We can take the cluster of words as a text document containing many number of a strings and a specific word is given to be searched among the document.
 

@@ -15,7 +15,13 @@
 
 ![String Matching](http://www.stoimen.com/blog/wp-content/uploads/2012/03/ThirdStepBruteforcestringmatching.png)
 
-### When working with a string matching algorithm, here's the terms that we must refer to :
+### When working with a string matching algorithm, here are some notations :
+* the alphabet, ∑ , is a finite set of symbols (i.e. we expect the text to be finite set of strings)
+* the string from where to search, is *the text* T and the length of |T| = n
+* the string that is to be searched, *the pattern* P, length of |P| = m
+#### It must be clear that the problem must consist of n >= m, otherwise it would not make any sense.
+
+## So, hwat do we expect from a string matching algorithms ?
 * 
 
 ### We will dive into number of string searching algrithms that can be used for string searching, each folder of the algorithms contains following part :

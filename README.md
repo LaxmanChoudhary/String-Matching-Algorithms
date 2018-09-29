@@ -22,7 +22,7 @@
 #### It must be clear that the problem must consist of n >= m, otherwise it would not make any sense.
 
 ## So, what do we expect from a string matching algorithms ?
-* Int value termed as *s (valid shift)*, that marks the occurence of the patterns in Text
+* Int value termed as **s** *(valid shift)*, that marks the occurence of the patterns in Text
 
 ### We will dive into number of string matching algrithms, each module consists of following :
   * **Theory**

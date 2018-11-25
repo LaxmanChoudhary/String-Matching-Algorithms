@@ -33,7 +33,7 @@ void naive_match(char T[], char P[], int n, int m)
 	{
 		j=i;	// to iterate Text
 		k=0;	// iteration over Pattern strings' characters & initialize to 0 for every i
-		while((T[j] == P[k]) && (j<limit))
+		while((T[j] == P[k]) && (j<n))
 		{
 			j++;
 			k++;
